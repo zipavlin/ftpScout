@@ -1,5 +1,5 @@
 {
-  "name": "ftpScout",
+  "name": "ftpscout",
   "version": "0.0.9",
   "description": "Watch for file changes and upload files to ftp server. It can also minify .js and .css files and/or add arbitrary information at the top of the document.",
   "author": "Žiga Pavlin",

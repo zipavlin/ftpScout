@@ -17,7 +17,7 @@ Requirements
 Install
 =======
 
-    npm install ftpScout [-g]
+    npm install ftpscout -g
 
 
 Use

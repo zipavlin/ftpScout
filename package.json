@@ -1,0 +1,35 @@
+{
+  "name": "ftpScout",
+  "version": "0.0.9",
+  "description": "Watch for file changes and upload files to ftp server. It can also minify .js and .css files and/or add arbitrary information at the top of the document.",
+  "author": "Žiga Pavlin",
+  "license": "MIT",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nodejitsu/browsenpm.org"
+  },
+  "bugs": {
+    "url": "https://github.com/nodejitsu/browsenpm.org/issues"
+  },
+  "bin": {
+    "ftpScout": "ftpscout.js"
+  },
+  "keywords": [
+    "file",
+    "ftp",
+    "upload",
+    "change",
+    "watch"
+  ],
+  "dependencies": {
+    "ftp": "0.3.8",
+    "nomnom": "1.8.1",
+    "uglify-js": "2.4.15",
+    "sqwish": "0.2.2"
+  },
+  "preferGlobal": true,
+  "analyze": true
+}
